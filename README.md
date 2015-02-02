@@ -1,5 +1,5 @@
 # cluster-design
-The idea of this repository to store and track the design process of the PRIDE Cluster projects. 
+This repository to store and track the design process of the PRIDE Cluster projects. 
 
 Currently, it contains the following information:
 
