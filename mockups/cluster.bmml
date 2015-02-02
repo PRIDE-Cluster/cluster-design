@@ -1,0 +1,177 @@
+<mockup version="1.0" skin="sketch" measuredW="1232" measuredH="1165" mockupW="972" mockupH="1117">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="261" y="48" w="965" h="1117" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="33" controlTypeID="__group__" x="260" y="50" w="972" h="115" measuredW="972" measuredH="115" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="641" y="44" w="231" h="-1" measuredW="201" measuredH="27" zOrder="0" locked="false" isInGroup="33">
+          <controlProperties>
+            <markup>true</markup>
+            <text>QITVNDLPVGR%2C%20GLFIIDDKGILR</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="16" y="32" w="371" h="-1" measuredW="263" measuredH="50" zOrder="1" locked="false" isInGroup="33">
+          <controlProperties>
+            <bold>true</bold>
+            <markup>true</markup>
+            <text>PRIDE%20Cluster</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::ButtonBar" x="0" y="86" w="972" h="29" measuredW="1044" measuredH="29" zOrder="2" locked="false" isInGroup="33">
+          <controlProperties>
+            <markup>true</markup>
+            <selectedIndex>1</selectedIndex>
+            <text>Home%2C%20Peptide%20Search%2C%20Spectral%20Search%2C%20Spectral%20Library%2C%20Help%2C%20About%20PRIDE%20Cluster%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%09%09%09%09%09%09%09</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::ButtonBar" x="0" y="0" w="965" h="29" measuredW="1240" measuredH="29" zOrder="3" locked="false" isInGroup="33">
+          <controlProperties>
+            <markup>true</markup>
+            <selectedIndex>2</selectedIndex>
+            <text>EMBL-EBI%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2C%20Services%2C%20Research%2C%20Training%2C%20Industry%2C%20About%20Us%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="880" y="45" w="65" h="27" measuredW="65" measuredH="27" zOrder="4" locked="false" isInGroup="33">
+          <controlProperties>
+            <text>Search</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="268" y="180" w="-1" h="-1" measuredW="174" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PRIDE%20Cluster%20%3E%20Cluster</text>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::FieldSet" x="317" y="262" w="371" h="267" measuredW="200" measuredH="170" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Key%20Data</text>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::FieldSet" x="736" y="266" w="377" h="261" measuredW="200" measuredH="170" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Species</text>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::FieldSet" x="317" y="552" w="377" h="193" measuredW="200" measuredH="170" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Project%20%26%20Publication</text>
+      </controlProperties>
+    </control>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::FieldSet" x="317" y="783" w="377" h="193" measuredW="200" measuredH="170" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cluster%20Quality%20Chart</text>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::FieldSet" x="736" y="549" w="377" h="198" measuredW="200" measuredH="170" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PTM</text>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Label" x="347" y="295" w="-1" h="-1" measuredW="83" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Precusor%20m/z</text>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Label" x="347" y="321" w="-1" h="-1" measuredW="105" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Precursor%20charge</text>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::Label" x="347" y="369" w="-1" h="-1" measuredW="113" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Number%20of%20spectra</text>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Label" x="347" y="394" w="-1" h="-1" measuredW="117" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Number%20of%20projects</text>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::Label" x="457" y="293" w="-1" h="-1" measuredW="48" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>205.45</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Label" x="470" y="321" w="-1" h="-1" measuredW="15" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::Label" x="470" y="369" w="-1" h="-1" measuredW="22" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>20</text>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::Label" x="470" y="394" w="-1" h="-1" measuredW="14" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Label" x="347" y="425" w="-1" h="-1" measuredW="114" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Number%20of%20species</text>
+      </controlProperties>
+    </control>
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::Label" x="470" y="455" w="-1" h="-1" measuredW="14" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Label" x="470" y="425" w="-1" h="-1" measuredW="14" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3</text>
+      </controlProperties>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::Label" x="347" y="455" w="-1" h="-1" measuredW="97" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Number%20of%20PTM</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::Label" x="317" y="213" w="-1" h="-1" measuredW="153" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>THEPEPTIDESEQUENCE</text>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::PieChart" x="759" y="308" w="-1" h="-1" measuredW="180" measuredH="180" zOrder="21" locked="false" isInGroup="-1"/>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::List" x="945" y="341" w="158" h="126" measuredW="100" measuredH="126" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Species%20one%20%2850%25%2C%2012%29%0ASpecies%20two%20%2820%25%2C%205%29%0ASpecies%20three%20%2820%25%2C%205%29%0AOthers%20%2810%25%2C%202%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::FieldSet" x="736" y="783" w="377" h="193" measuredW="200" measuredH="170" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Consensus%20spectrum</text>
+      </controlProperties>
+    </control>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::FieldSet" x="316" y="987" w="797" h="170" measuredW="200" measuredH="170" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PSM</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::Label" x="349" y="832" w="-1" h="-1" measuredW="193" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Box%20plot%20for%20precursor%20distribution</text>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Label" x="347" y="882" w="193" h="26" measuredW="180" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Box%20plot%20for%20spectrum%20similarity</text>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::Label" x="772" y="853" w="-1" h="-1" measuredW="101" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Export%20spectrum</text>
+      </controlProperties>
+    </control>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::Label" x="349" y="346" w="-1" h="-1" measuredW="36" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ratio</text>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Label" x="470" y="346" w="-1" h="-1" measuredW="25" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>0.7</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

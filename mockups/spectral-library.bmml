@@ -1,0 +1,90 @@
+<mockup version="1.0" skin="sketch" measuredW="1233" measuredH="745" mockupW="1200" mockupH="698">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="261" y="48" w="965" h="697" measuredW="100" measuredH="70" zOrder="0" locked="true" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="901" y="91" w="231" h="-1" measuredW="79" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <markup>true</markup>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="320" y="78" w="301" h="-1" measuredW="263" measuredH="50" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <markup>true</markup>
+        <text>PRIDE%20Cluster</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::ButtonBar" x="261" y="130" w="972" h="29" measuredW="889" measuredH="29" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <markup>true</markup>
+        <selectedIndex>-1</selectedIndex>
+        <text>Home%2C%20Peptide%20Search%2C%20Spectral%20Library%2C%20Help%2C%20About%20PRIDE%20Cluster%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%09%09%09%09%09%09%09</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::ButtonBar" x="260" y="47" w="965" h="29" measuredW="1240" measuredH="29" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <markup>true</markup>
+        <selectedIndex>2</selectedIndex>
+        <text>EMBL-EBI%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2C%20Services%2C%20Research%2C%20Training%2C%20Industry%2C%20About%20Us%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="1140" y="91" w="65" h="26" measuredW="65" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="288" y="177" w="-1" h="-1" measuredW="226" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PRIDE%2C%20Cluster%2C%20Spectral%20Libraries</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="288" y="216" w="-1" h="-1" measuredW="292" measuredH="28" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>PRIDE%20Cluster%20Spectral%20Libraries</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="295" y="254" w="-1" h="-1" measuredW="265" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Some%20descriptions%20about%20the%20spectral%20libraries</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="291" y="317" w="-1" h="-1" measuredW="84" measuredH="26" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Download</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::DataGrid" x="288" y="372" w="408" h="145" measuredW="263" measuredH="145" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Species%2C%20Spectra%2C%20Samples%2C%20Link%0AHuman%2C%202000%2C%20200%2C%20Download%0AMouse%2C%202000%2C%20200%2C%20Download%0ADog%2C%202000%2C%20200%2C%20Download%0ACat%2C%202000%2C%20200%2C%20Download%0A%7B65L%2C%200R%2C%2035%2C%200C%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="295" y="344" w="-1" h="-1" measuredW="275" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20current%20release%20was%20made%20on%202015-03-30</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="295" y="557" w="-1" h="-1" measuredW="109" measuredH="26" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>How%20to%20use%20it</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="297" y="592" w="-1" h="-1" measuredW="271" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Some%20text%20on%20how%20to%20use%20the%20spectral%20libraries.</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::StickyNote" x="33" y="268" w="162" h="173" measuredW="109" measuredH="123" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>It%20would%20be%20nice%20to%20display%20some%20images%20to%20indicate%20the%20species.%20I%20believe%20this%20is%20included%20in%20the%20EBI%20icons.</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Arrow" x="197" y="309" w="87" h="60" measuredW="150" measuredH="100" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

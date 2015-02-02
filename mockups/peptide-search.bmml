@@ -1,0 +1,221 @@
+<mockup version="1.0" skin="sketch" measuredW="1232" measuredH="800" mockupW="1134" mockupH="752">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="261" y="48" w="965" h="752" measuredW="100" measuredH="70" zOrder="0" locked="true" isInGroup="-1"/>
+    <control controlID="25" controlTypeID="__group__" x="1037" y="274" w="151" h="27" measuredW="151" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::PointyButton" x="130" y="0" w="-1" h="-1" measuredW="21" measuredH="27" zOrder="0" locked="false" isInGroup="25">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="0" y="0" w="-1" h="-1" measuredW="21" measuredH="27" zOrder="1" locked="false" isInGroup="25">
+          <controlProperties>
+            <direction>left</direction>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="24" y="3" w="-1" h="-1" measuredW="106" measuredH="21" zOrder="2" locked="false" isInGroup="25">
+          <controlProperties>
+            <text>1%20to%2050%20of%2020000</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="32" controlTypeID="__group__" x="268" y="469" w="165" h="115" measuredW="165" measuredH="115" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="0" w="-1" h="-1" measuredW="165" measuredH="26" zOrder="0" locked="false" isInGroup="32">
+          <controlProperties>
+            <size>18</size>
+            <text>Filter%20by%20Modification</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="26" w="154" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="32"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="11" y="37" w="148" h="21" measuredW="146" measuredH="20" zOrder="2" locked="false" isInGroup="32">
+          <controlProperties>
+            <size>12</size>
+            <text>monohydroxylated%20residue%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="11" y="58" w="140" h="36" measuredW="187" measuredH="20" zOrder="3" locked="false" isInGroup="32">
+          <controlProperties>
+            <size>12</size>
+            <text>iodoacetamide%20derivatized%20residue</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="0" y="94" w="119" h="21" measuredW="45" measuredH="20" zOrder="4" locked="false" isInGroup="32">
+          <controlProperties>
+            <size>12</size>
+            <text>More%20...</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="33" controlTypeID="__group__" x="260" y="50" w="972" h="115" measuredW="972" measuredH="115" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="641" y="44" w="231" h="-1" measuredW="201" measuredH="27" zOrder="0" locked="false" isInGroup="33">
+          <controlProperties>
+            <markup>true</markup>
+            <text>QITVNDLPVGR%2C%20GLFIIDDKGILR</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="16" y="32" w="371" h="-1" measuredW="263" measuredH="50" zOrder="1" locked="false" isInGroup="33">
+          <controlProperties>
+            <bold>true</bold>
+            <markup>true</markup>
+            <text>PRIDE%20Cluster</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::ButtonBar" x="0" y="86" w="972" h="29" measuredW="918" measuredH="29" zOrder="2" locked="false" isInGroup="33">
+          <controlProperties>
+            <markup>true</markup>
+            <selectedIndex>1</selectedIndex>
+            <text>Home%2C%20Peptide%20Search%2C%20Spectral%20Library%2C%20Help%2C%20About%20PRIDE%20Cluster%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%09%09%09%09%09%09%09</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::ButtonBar" x="0" y="0" w="965" h="29" measuredW="1240" measuredH="29" zOrder="3" locked="false" isInGroup="33">
+          <controlProperties>
+            <markup>true</markup>
+            <selectedIndex>2</selectedIndex>
+            <text>EMBL-EBI%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2C%20Services%2C%20Research%2C%20Training%2C%20Industry%2C%20About%20Us%2C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="880" y="45" w="65" h="27" measuredW="65" measuredH="27" zOrder="4" locked="false" isInGroup="33">
+          <controlProperties>
+            <text>Search</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="37" controlTypeID="__group__" x="268" y="322" w="149" h="132" measuredW="149" measuredH="132" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="6" y="0" w="-1" h="-1" measuredW="143" measuredH="26" zOrder="0" locked="false" isInGroup="37">
+          <controlProperties>
+            <size>18</size>
+            <text>Filter%20by%20organism</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="3" y="26" w="146" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="37"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="6" y="41" w="119" h="21" measuredW="86" measuredH="20" zOrder="2" locked="false" isInGroup="37">
+          <controlProperties>
+            <size>12</size>
+            <text>Human%20%284%2C618%29</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="6" y="62" w="119" h="21" measuredW="81" measuredH="20" zOrder="3" locked="false" isInGroup="37">
+          <controlProperties>
+            <size>12</size>
+            <text>Mouse%20%282%2C118%29</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="6" y="83" w="119" h="21" measuredW="69" measuredH="20" zOrder="4" locked="false" isInGroup="37">
+          <controlProperties>
+            <size>12</size>
+            <text>E.%20coil%20%28318%29</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="0" y="111" w="119" h="21" measuredW="45" measuredH="20" zOrder="5" locked="false" isInGroup="37">
+          <controlProperties>
+            <size>12</size>
+            <text>More%20...</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::TextArea" x="455" y="322" w="231" h="106" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>QITVNDLPVGR%0APrecusor%20m/z%0APrecursor%20charge%0A%23Spectra%0A%23Projects%0A%23Ratio</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="__group__" x="1044" y="705" w="151" h="27" measuredW="151" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::PointyButton" x="130" y="0" w="-1" h="-1" measuredW="21" measuredH="27" zOrder="0" locked="false" isInGroup="42">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="0" y="0" w="-1" h="-1" measuredW="21" measuredH="27" zOrder="1" locked="false" isInGroup="42">
+          <controlProperties>
+            <direction>left</direction>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="24" y="3" w="-1" h="-1" measuredW="106" measuredH="21" zOrder="2" locked="false" isInGroup="42">
+          <controlProperties>
+            <text>1%20to%2050%20of%2020000</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::TextArea" x="716" y="322" w="231" h="106" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>QITVNDLPVGR%0APrecusor%20m/z%0APrecursor%20charge%0A%23Spectra%0A%23Projects%0A%23Ratio</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::TextArea" x="964" y="322" w="231" h="106" measuredW="200" measuredH="140" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>QITVNDLPVGR%0APrecusor%20m/z%0APrecursor%20charge%0A%23Spectra%0A%23Projects%0A%23Ratio</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::TextArea" x="455" y="447" w="231" h="106" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>QITVNDLPVGR%0APrecusor%20m/z%0APrecursor%20charge%0A%23Spectra%0A%23Projects%0A%23Ratio</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::TextArea" x="716" y="447" w="231" h="106" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>QITVNDLPVGR%0APrecusor%20m/z%0APrecursor%20charge%0A%23Spectra%0A%23Projects%0A%23Ratio</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::TextArea" x="964" y="447" w="231" h="106" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>QITVNDLPVGR%0APrecusor%20m/z%0APrecursor%20charge%0A%23Spectra%0A%23Projects%0A%23Ratio</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::TextArea" x="455" y="568" w="231" h="106" measuredW="200" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>QITVNDLPVGR%0APrecusor%20m/z%0APrecursor%20charge%0A%23Spectra%0A%23Projects%0A%23Ratio</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::TextArea" x="716" y="568" w="231" h="106" measuredW="200" measuredH="140" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>QITVNDLPVGR%0APrecusor%20m/z%0APrecursor%20charge%0A%23Spectra%0A%23Projects%0A%23Ratio</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::TextArea" x="964" y="568" w="231" h="106" measuredW="200" measuredH="140" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>QITVNDLPVGR%0APrecusor%20m/z%0APrecursor%20charge%0A%23Spectra%0A%23Projects%0A%23Ratio</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::ComboBox" x="458" y="276" w="-1" h="-1" measuredW="94" measuredH="23" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Relevance</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Button" x="745" y="274" w="69" h="27" measuredW="46" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>List</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Button" x="806" y="274" w="71" h="27" measuredW="51" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Chat</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="268" y="180" w="-1" h="-1" measuredW="237" measuredH="24" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PRIDE%20%3E%20Cluster%20%3E%20Peptide%20Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::StickyNote" x="98" y="131" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%23Spectra%0ARatio%0A%23Projects</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Arrow" x="189" y="193" w="266" h="100" measuredW="150" measuredH="100" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
