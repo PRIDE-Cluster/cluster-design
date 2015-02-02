@@ -1,4 +1,6 @@
-As a warm up for this. Taken from the book “A Practical Guide to Information Architecture” by Donna Spencer. This one is about how people look for information (I have summarised it a bit). We could try to wonder what user stories we have in each category (if any at all).
+###Format
+
+As a warm up for this. Taken from the book “A Practical Guide to Information Architecture” by Donna Spencer. This one is about how people look for information (I have summarized it a bit). We could try to wonder what user stories we have in each category (if any at all).
 
 ####Finding known items
 
