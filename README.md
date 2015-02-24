@@ -1,6 +1,7 @@
 # cluster-design
 
 [![Join the chat at https://gitter.im/PRIDE-Cluster/cluster-design](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PRIDE-Cluster/cluster-design?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository stores and tracks the design process of the PRIDE Cluster projects. 
 
 Currently, it contains the following information:
